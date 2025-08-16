@@ -32,5 +32,4 @@ This repository demonstrates a **Spring Boot 3.5.4** project with **Spring Secur
 
  ## OAUTH FLOW using AUTH_CODE Grant type: 
  
-
-![oauth_flow_corrected](https://github.com/user-attachments/assets/f8e02ddf-4f49-4b20-bdf8-22a582fe262d)
+![oauth_flow_corrected (1)](https://github.com/user-attachments/assets/c610fe6c-a32c-4d3b-b291-d0cf31e16806)
