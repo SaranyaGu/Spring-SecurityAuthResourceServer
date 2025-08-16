@@ -30,7 +30,8 @@ This repository demonstrates a **Spring Boot 3.5.4** project with **Spring Secur
    ```bash
    mvn clean install
 
-   <svg width="1000" height="700" xmlns="http://www.w3.org/2000/svg">
+ OAUTH FLOW using AUTH_CODE Grant type: 
+```<svg width="1000" height="700" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
   <rect width="1000" height="700" fill="#f8f9fa"/>
   
@@ -124,4 +125,5 @@ This repository demonstrates a **Spring Boot 3.5.4** project with **Spring Secur
       <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
     </marker>
   </defs>
-</svg>
+</svg>```
+ 
