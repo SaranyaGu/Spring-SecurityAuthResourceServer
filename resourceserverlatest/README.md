@@ -46,4 +46,4 @@ All endpoints require a valid JWT token.
 ## Example Usage
 
 ```bash
-curl -H "Authorization: Bearer <token>" http://localhost:8080/couponapi/coupons?code={code}
+curl -H "Authorization: Bearer <token>" http://localhost:8090/couponapi/coupons?code={code}
