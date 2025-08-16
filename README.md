@@ -31,5 +31,4 @@ This repository demonstrates a **Spring Boot 3.5.4** project with **Spring Secur
    mvn clean install
 
  ## OAUTH FLOW using AUTH_CODE Grant type: 
- 
-![oauth_flow_corrected (1)](https://github.com/user-attachments/assets/c610fe6c-a32c-4d3b-b291-d0cf31e16806)
+ https://claude.ai/public/artifacts/3af3351d-3271-450b-b557-fab76ceab1ba
